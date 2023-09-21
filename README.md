@@ -2,7 +2,7 @@
 Source code berikut adalah pengujian dari API: <br />**POST /BookStore/v1/Books** <br />**DELETE /BookStore/v1/Books**
 <br />https://bookstore.toomlsqa.com/swagger/ (sumber)
 
-Jalankan pengujian dengan perintah berikut:
+Untuk menjalankan pengujian menggunakan perintah berikut:
 <br />**npx wdio wdio.conf.js**
 
 Dan berdasarkan pengujian tersebut, hasilnya sebagai berikut:
