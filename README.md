@@ -3,9 +3,6 @@ This source code berikut is part of API scenarios: <br />**POST /BookStore/v1/Bo
 <br />https://bookstore.toomlsqa.com/swagger/ (sumber)
 
 This is an automation project that demonstrates how to automate API testing for the BookStore API using WebDriverIO, Axios, and Chai.
-# BookStore API Automation
-
-This is an automation project that demonstrates how to automate API testing for the BookStore API using WebDriverIO, Axios, and Chai.
 
 ### Prerequisites
 
@@ -42,12 +39,12 @@ Before you begin, ensure you have met the following requirements:
 <br />**Contributing**
 <br />Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
-<br />- Fork the repository.
-<br />- Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name
-<br />- Make your changes and commit them: git commit -m "Add your message here"
-<br />- Push your changes to your fork: git push origin feature/your-feature-name
-<br />- Create a pull request to the main repository.
-<br />- Please make sure to provide a clear description of your changes in the pull request.
+- Fork the repository.
+- Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name
+- Make your changes and commit them: git commit -m "Add your message here"
+- Push your changes to your fork: git push origin feature/your-feature-name
+- Create a pull request to the main repository.
+- Please make sure to provide a clear description of your changes in the pull request.
 
 <br />And from those testing, the result shown as following:
 ![image](https://github.com/sanny2304/Automation-Bookstore/assets/47511461/52e034e0-be6e-4923-b38a-1010dbbb7901)
