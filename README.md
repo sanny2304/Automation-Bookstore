@@ -29,11 +29,8 @@ Before you begin, ensure you have met the following requirements:
 
 <br />**Test Scenarios**
 <br />The following test scenarios are included in this project:
-
 <br />- Adding a Book: This test sends a POST request to add a new book to the BookStore API and verifies that the response status code is 201.
-
 <br />- Deleting a Book: This test sends a DELETE request to remove a book from the BookStore API and verifies that the response status code is 204.
-
 <br />You can customize and expand these test scenarios as needed for your specific use case.
 
 <br />**Contributing**
