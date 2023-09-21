@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
    git clone <repository_url>
 
 1. Navigate to the project directory:
-   cd bookstore-api-automation
+   cd Automation-Bookstore
 2. Install the project dependencies:
    npm install
 <br />**Running the Tests**
