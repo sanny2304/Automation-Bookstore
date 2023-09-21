@@ -4,6 +4,17 @@ This source code berikut is part of API scenarios: <br />**POST /BookStore/v1/Bo
 
 This is an automation project that demonstrates how to automate API testing for the BookStore API using WebDriverIO, Axios, and Chai.
 
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Running the Tests](#running-the-tests)
+- [Test Scenarios](#test-scenarios)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -52,6 +63,14 @@ Make your changes and commit them: git commit -m "Add your message here"
 Push your changes to your fork: git push origin feature/your-feature-name
 Create a pull request to the main repository.
 Please make sure to provide a clear description of your changes in the pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+go
+Copy code
+
+Gantilah `<repository_url>` dengan URL repositori Anda. Dokumen ini memberikan instruksi tentang cara menginsta
 
 
 And from those testing, the result shown as following:
