@@ -21,7 +21,6 @@ Before you begin, ensure you have met the following requirements:
    cd bookstore-api-automation
 2. Install the project dependencies:
    npm install
-
 <br />**Running the Tests**
 <br />To run the API tests, use the following command:
 <br />npx wdio wdio.conf.js
