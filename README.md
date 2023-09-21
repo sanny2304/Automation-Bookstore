@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/sanny2304/Automation-Bookstore.git>
 
 1. Navigate to the project directory:
    cd Automation-Bookstore
