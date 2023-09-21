@@ -3,17 +3,9 @@ This source code berikut is part of API scenarios: <br />**POST /BookStore/v1/Bo
 <br />https://bookstore.toomlsqa.com/swagger/ (sumber)
 
 This is an automation project that demonstrates how to automate API testing for the BookStore API using WebDriverIO, Axios, and Chai.
+# BookStore API Automation
 
-## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Running the Tests](#running-the-tests)
-- [Test Scenarios](#test-scenarios)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Getting Started
+This is an automation project that demonstrates how to automate API testing for the BookStore API using WebDriverIO, Axios, and Chai.
 
 ### Prerequisites
 
@@ -27,53 +19,37 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone <repository_url>
-Navigate to the project directory:
 
-bash
-Copy code
-cd bookstore-api-automation
-Install the project dependencies:
+1. Navigate to the project directory:
+   cd bookstore-api-automation
+2. Install the project dependencies:
+   npm install
 
-bash
-Copy code
-npm install
-Running the Tests
-To run the API tests, use the following command:
+<br />**Running the Tests**
+<br />To run the API tests, use the following command:
+<br />npx wdio wdio.conf.js
+<br />*This command will execute the test scenarios defined in the apiTests.js file.*
 
-bash
-Copy code
-npx wdio wdio.conf.js
-This command will execute the test scenarios defined in the apiTests.js file.
+<br />**Test Scenarios**
+<br />The following test scenarios are included in this project:
 
-Test Scenarios
-The following test scenarios are included in this project:
+<br />- Adding a Book: This test sends a POST request to add a new book to the BookStore API and verifies that the response status code is 201.
 
-Adding a Book: This test sends a POST request to add a new book to the BookStore API and verifies that the response status code is 201.
+<br />- Deleting a Book: This test sends a DELETE request to remove a book from the BookStore API and verifies that the response status code is 204.
 
-Deleting a Book: This test sends a DELETE request to remove a book from the BookStore API and verifies that the response status code is 204.
+<br />You can customize and expand these test scenarios as needed for your specific use case.
 
-You can customize and expand these test scenarios as needed for your specific use case.
+<br />**Contributing**
+<br />Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
-Contributing
-Contributions are welcome! If you want to contribute to this project, please follow these steps:
+<br />- Fork the repository.
+<br />- Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name
+<br />- Make your changes and commit them: git commit -m "Add your message here"
+<br />- Push your changes to your fork: git push origin feature/your-feature-name
+<br />- Create a pull request to the main repository.
+<br />- Please make sure to provide a clear description of your changes in the pull request.
 
-Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name
-Make your changes and commit them: git commit -m "Add your message here"
-Push your changes to your fork: git push origin feature/your-feature-name
-Create a pull request to the main repository.
-Please make sure to provide a clear description of your changes in the pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-go
-Copy code
-
-Gantilah `<repository_url>` dengan URL repositori Anda. Dokumen ini memberikan instruksi tentang cara menginsta
-
-
-And from those testing, the result shown as following:
+<br />And from those testing, the result shown as following:
 ![image](https://github.com/sanny2304/Automation-Bookstore/assets/47511461/52e034e0-be6e-4923-b38a-1010dbbb7901)
 
 
