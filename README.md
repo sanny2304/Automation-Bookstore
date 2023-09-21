@@ -1,9 +1,9 @@
 # Automation-Bookstore
-scenario test dari API  berikut: 
-POST /BookStore/v1/Books 
-DELETE /BookStore/v1/Books
+scenario test dari API  berikut: <br />POST /BookStore/v1/Books <br />DELETE /BookStore/v1/Books
 
-Setelah running, muncul hasil berikut:
+Jalankan pengujian dengan perintah berikut:
+**npx wdio wdio.conf.js**
 
+Dan bersarkan pengujian tersebut, hasilnya sebagai berikut:
 ![image](https://github.com/sanny2304/Automation-Bookstore/assets/47511461/52e034e0-be6e-4923-b38a-1010dbbb7901)
 
