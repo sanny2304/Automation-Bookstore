@@ -1,5 +1,5 @@
 # Automation-Bookstore
-This source code berikut is part of API scenarios: <br />**POST /BookStore/v1/Books** <br />**DELETE /BookStore/v1/Books**
+This source code is part of API scenarios: <br />**POST /BookStore/v1/Books** <br />**DELETE /BookStore/v1/Books**
 <br />https://bookstore.toomlsqa.com/swagger/ (sumber)
 
 This is an automation project that demonstrates how to automate API testing for the BookStore API using WebDriverIO, Axios, and Chai.
