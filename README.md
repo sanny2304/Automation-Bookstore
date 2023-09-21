@@ -10,9 +10,9 @@ Dan berdasarkan pengujian tersebut, hasilnya sebagai berikut:
 
 
 Jika bapak/ibu tidak bisa running, Silakan gunakan perintah berikut:
-**npm install @wdio/cli --save-dev**
-**npm cache clean --force**
-**npx wdio wdio.conf.js**
+<br />**npm install @wdio/cli --save-dev**
+<br />**npm cache clean --force**
+<br />**npx wdio wdio.conf.js**
 
 Happy Testing :)
 
